@@ -15,4 +15,4 @@ The script uses an Application's client ID registered on developers.soundcloud.c
 * **app_version** - Integer. Most likely the API version. Default is already in the script
 
 ## Notes
-ONLY FOR PERSONAL AND EDUCATIONAL USE ONLY. THIS DOES NOT DOWNLOAD FULL VERSIONS OF TRACKS BEHIND THE SOUNDCLOUD GO PAYWALL.
+FOR PERSONAL AND EDUCATIONAL USE ONLY. THIS DOES NOT DOWNLOAD FULL VERSIONS OF TRACKS BEHIND THE SOUNDCLOUD GO PAYWALL.
